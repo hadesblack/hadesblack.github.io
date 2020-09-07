@@ -1,73 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="31.999996"
-   version="1.1"
-   xml:space="preserve"
-   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
-   id="svg25"
-   sodipodi:docname="reddit.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><title
-   id="title840">HADES BLACK on Reddit</title><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title>HADES BLACK on Reddit</dc:title><dc:creator><cc:Agent><dc:title>HADES BLACK</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>HADES BLACK</dc:title></cc:Agent></dc:publisher><dc:description>Vectorized service graphic by HADES BLACK. Exclusively created for "hadesblack.github.io" website and other platforms, where used by HADES BLACK.</dc:description><dc:contributor><cc:Agent><dc:title>HADES BLACK</dc:title></cc:Agent></dc:contributor><dc:subject><rdf:Bag><rdf:li>hadesblack</rdf:li></rdf:Bag></dc:subject><dc:source>hadesblack.github.io</dc:source><dc:rights><cc:Agent><dc:title>All rights reserved</dc:title></cc:Agent></dc:rights></cc:Work></rdf:RDF></metadata><defs
-   id="defs29" /><sodipodi:namedview
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="640"
-   inkscape:window-height="480"
-   id="namedview27"
-   showgrid="false"
-   showguides="false"
-   inkscape:pagecheckerboard="true"
-   fit-margin-top="1.72023"
-   fit-margin-left="0"
-   fit-margin-right="0"
-   fit-margin-bottom="1.72023"
-   inkscape:zoom="2.2793103"
-   inkscape:cx="122.54186"
-   inkscape:cy="56.692911"
-   inkscape:current-layer="Artwork"><sodipodi:guide
-     position="379.44272,59.285068"
-     orientation="1,0"
-     id="guide838"
-     inkscape:locked="false" /></sodipodi:namedview>
-    <g
-   id="Artwork"
-   transform="translate(-43.0535,-38.571002)">
-        <g
-   id="g16"
-   transform="matrix(0.53448247,0,0,0.53448247,27.490439,25.403757)"
-   style="fill:#ffffff">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><title>HADES BLACK on Reddit</title><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title>HADES BLACK on Reddit</dc:title><dc:creator><cc:Agent><dc:title>HADES BLACK</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>HADES BLACK</dc:title></cc:Agent></dc:publisher><dc:description>Vectorized service graphic by HADES BLACK. Exclusively created for "hadesblack.github.io" website and other platforms, where used by HADES BLACK.</dc:description><dc:contributor><cc:Agent><dc:title>HADES BLACK</dc:title></cc:Agent></dc:contributor><dc:subject><rdf:Bag><rdf:li>hadesblack</rdf:li></rdf:Bag></dc:subject><dc:source>hadesblack.github.io</dc:source><dc:rights><cc:Agent><dc:title>All rights reserved</dc:title></cc:Agent></dc:rights></cc:Work></rdf:RDF></metadata>
+    <g transform="translate(-43.054 -38.571)">
+        
+        <g transform="matrix(.53448 0 0 .53448 27.49 25.404)" fill="#fff">
             
-            
-            
-            
-            
-            
-            
-        </g>
-        <g
-   id="g22"
-   transform="matrix(0.53448247,0,0,0.53448247,27.490439,25.403757)"
-   style="fill:#ffffff">
-            
-            <path
-   d="m 88.989,55 c 0,-3.648 -2.95,-6.545 -6.545,-6.545 -1.77,0 -3.38,0.697 -4.56,1.824 C 73.378,47.06 67.208,44.968 60.341,44.7 l 3.004,-14.056 9.764,2.092 c 0.108,2.468 2.146,4.453 4.668,4.453 2.575,0 4.667,-2.092 4.667,-4.668 0,-2.575 -2.092,-4.667 -4.667,-4.667 -1.824,0 -3.434,1.073 -4.185,2.629 l -10.89,-2.307 c -0.322,-0.054 -0.644,0 -0.859,0.161 -0.268,0.161 -0.429,0.429 -0.482,0.751 l -3.327,15.665 c -6.974,0.215 -13.251,2.307 -17.811,5.58 -1.18,-1.127 -2.79,-1.824 -4.56,-1.824 -3.648,0 -6.545,2.95 -6.545,6.545 0,2.682 1.609,4.935 3.863,5.955 -0.108,0.643 -0.161,1.287 -0.161,1.985 0,10.085 11.749,18.294 26.234,18.294 14.485,0 26.234,-8.155 26.234,-18.294 0,-0.644 -0.054,-1.342 -0.161,-1.985 2.253,-1.02 3.862,-3.327 3.862,-6.009 z M 44.032,59.667 C 44.032,57.092 46.124,55 48.7,55 c 2.575,0 4.667,2.092 4.667,4.667 0,2.575 -2.092,4.668 -4.667,4.668 -2.576,0.053 -4.668,-2.093 -4.668,-4.668 z M 70.159,72.06 c -3.219,3.219 -9.335,3.434 -11.105,3.434 -1.824,0 -7.94,-0.269 -11.106,-3.434 -0.482,-0.483 -0.482,-1.234 0,-1.717 0.483,-0.482 1.234,-0.482 1.717,0 2.039,2.039 6.331,2.736 9.389,2.736 3.058,0 7.403,-0.697 9.388,-2.736 0.483,-0.482 1.234,-0.482 1.717,0 0.429,0.483 0.429,1.234 0,1.717 z M 69.3,64.388 c -2.575,0 -4.667,-2.092 -4.667,-4.667 0,-2.575 2.092,-4.667 4.667,-4.667 2.576,0 4.668,2.092 4.668,4.667 0,2.521 -2.092,4.667 -4.668,4.667 z"
-   style="fill:#ffffff;fill-rule:nonzero"
-   id="path20"
-   inkscape:connector-curvature="0" />
+            <path d="m88.989 55c0-3.648-2.95-6.545-6.545-6.545-1.77 0-3.38 0.697-4.56 1.824-4.506-3.219-10.676-5.311-17.543-5.579l3.004-14.056 9.764 2.092c0.108 2.468 2.146 4.453 4.668 4.453 2.575 0 4.667-2.092 4.667-4.668 0-2.575-2.092-4.667-4.667-4.667-1.824 0-3.434 1.073-4.185 2.629l-10.89-2.307c-0.322-0.054-0.644 0-0.859 0.161-0.268 0.161-0.429 0.429-0.482 0.751l-3.327 15.665c-6.974 0.215-13.251 2.307-17.811 5.58-1.18-1.127-2.79-1.824-4.56-1.824-3.648 0-6.545 2.95-6.545 6.545 0 2.682 1.609 4.935 3.863 5.955-0.108 0.643-0.161 1.287-0.161 1.985 0 10.085 11.749 18.294 26.234 18.294s26.234-8.155 26.234-18.294c0-0.644-0.054-1.342-0.161-1.985 2.253-1.02 3.862-3.327 3.862-6.009zm-44.957 4.667c0-2.575 2.092-4.667 4.668-4.667 2.575 0 4.667 2.092 4.667 4.667s-2.092 4.668-4.667 4.668c-2.576 0.053-4.668-2.093-4.668-4.668zm26.127 12.393c-3.219 3.219-9.335 3.434-11.105 3.434-1.824 0-7.94-0.269-11.106-3.434-0.482-0.483-0.482-1.234 0-1.717 0.483-0.482 1.234-0.482 1.717 0 2.039 2.039 6.331 2.736 9.389 2.736s7.403-0.697 9.388-2.736c0.483-0.482 1.234-0.482 1.717 0 0.429 0.483 0.429 1.234 0 1.717zm-0.859-7.672c-2.575 0-4.667-2.092-4.667-4.667s2.092-4.667 4.667-4.667c2.576 0 4.668 2.092 4.668 4.667 0 2.521-2.092 4.667-4.668 4.667z" fill="#fff" fill-rule="nonzero"/>
         </g>
     </g>
 </svg>
