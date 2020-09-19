@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /
+Disallow: /assets/
 
 Sitemap: https://hadesblack.github.io/sitemap.xml
